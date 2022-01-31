@@ -20,7 +20,6 @@ on:
         default: 'false'
 
 env:
-  T_NAME: "R6" # 设备名字 (op编译慢所以直接单个的编译)
   REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
